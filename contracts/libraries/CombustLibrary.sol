@@ -20,7 +20,7 @@ library CombustLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66' // init code hash
+                hex'30a77d2aebaac63dddffb05829f43836b6f645aeca427b0c3f07135265c5cb2b' // init code hash
             ))));
     }
 
